@@ -7,7 +7,6 @@ class Solution(object):
         :rtype: bool
         """
         q = deque()
-
         pair = [["(", ")"], ["{", "}"], ["[", "]"]]
         
         for c in s:
@@ -20,7 +19,4 @@ class Solution(object):
                     cur = q.pop()
                     if cur != opened:
                         return False
-        if q:
-            return False
-        else:
-            return True
+        return not q
