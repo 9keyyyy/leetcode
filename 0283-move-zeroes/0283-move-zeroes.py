@@ -14,9 +14,8 @@ class Solution(object):
                         break
             if e == len(nums):
                 break
-            tmp = nums[s]
-            nums[s] = nums[e]
-            nums[e] = tmp
+
+            nums[s], nums[e] = nums[e], nums[s]
+            
             e += 1
             s += 1
-
