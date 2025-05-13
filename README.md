@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/9keyyyy/leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/9keyyyy/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0055-jump-game](https://github.com/9keyyyy/leetcode/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/9keyyyy/leetcode/tree/master/0118-pascals-triangle) |
 | [0283-move-zeroes](https://github.com/9keyyyy/leetcode/tree/master/0283-move-zeroes) |
 | [1293-three-consecutive-odds](https://github.com/9keyyyy/leetcode/tree/master/1293-three-consecutive-odds) |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/9keyyyy/leetcode/tree/master/0022-generate-parentheses) |
+| [0055-jump-game](https://github.com/9keyyyy/leetcode/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/9keyyyy/leetcode/tree/master/0118-pascals-triangle) |
 ## String
 |  |
@@ -37,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/9keyyyy/leetcode/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/9keyyyy/leetcode/tree/master/0055-jump-game) |
 ## Hash Table
 |  |
 | ------- |
