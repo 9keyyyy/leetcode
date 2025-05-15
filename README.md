@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/9keyyyy/leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/9keyyyy/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0035-search-insert-position](https://github.com/9keyyyy/leetcode/tree/master/0035-search-insert-position) |
 | [0055-jump-game](https://github.com/9keyyyy/leetcode/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/9keyyyy/leetcode/tree/master/0118-pascals-triangle) |
 | [0283-move-zeroes](https://github.com/9keyyyy/leetcode/tree/master/0283-move-zeroes) |
@@ -54,4 +55,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/9keyyyy/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/9keyyyy/leetcode/tree/master/0022-generate-parentheses) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/9keyyyy/leetcode/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
