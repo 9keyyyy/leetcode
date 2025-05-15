@@ -4,14 +4,16 @@ class Solution(object):
         :type numRows: int
         :rtype: List[List[int]]
         """
-        ans = [[1]]
-        for i in range(2, numRows+1):
-            child = []
-            for j in range(i):
-                if j == 0 or j == i-1:
-                    child.append(1)
-                else:
-                    child.append(ans[i-2][j-1]+ans[i-2][j])
-            ans.append(child)
-        return ans
+        dp = [[0]*i for i in range(1, numRows+1)]
+        dp[0][0] = 1
+
+        for i in range(1, numRows):
+            for j in range(i+1):
+                if j == 0 or j == i:
+                    dp[i][j] = 1
+                    continue
+                
+                dp[i][j] = dp[i-1][j-1] + dp[i-1][j]
+
+        return dp
         
