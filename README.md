@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/9keyyyy/leetcode/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/9keyyyy/leetcode/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/9keyyyy/leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0217-contains-duplicate](https://github.com/9keyyyy/leetcode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/9keyyyy/leetcode/tree/master/0283-move-zeroes) |
 | [1293-three-consecutive-odds](https://github.com/9keyyyy/leetcode/tree/master/1293-three-consecutive-odds) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/9keyyyy/leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/9keyyyy/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0128-longest-consecutive-sequence](https://github.com/9keyyyy/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0159-longest-substring-with-at-most-two-distinct-characters](https://github.com/9keyyyy/leetcode/tree/master/0159-longest-substring-with-at-most-two-distinct-characters) |
+| [0217-contains-duplicate](https://github.com/9keyyyy/leetcode/tree/master/0217-contains-duplicate) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/9keyyyy/leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 ## Sliding Window
 |  |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/9keyyyy/leetcode/tree/master/0015-3sum) |
+| [0217-contains-duplicate](https://github.com/9keyyyy/leetcode/tree/master/0217-contains-duplicate) |
 ## Counting
 |  |
 | ------- |
