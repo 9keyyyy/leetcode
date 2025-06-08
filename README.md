@@ -145,4 +145,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/9keyyyy/leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+## Depth-First Search
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/9keyyyy/leetcode/tree/master/0386-lexicographical-numbers) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/9keyyyy/leetcode/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
