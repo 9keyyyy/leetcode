@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/9keyyyy/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/9keyyyy/leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/9keyyyy/leetcode/tree/master/0137-single-number-ii) |
+| [0200-number-of-islands](https://github.com/9keyyyy/leetcode/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/9keyyyy/leetcode/tree/master/0217-contains-duplicate) |
 | [0249-group-shifted-strings](https://github.com/9keyyyy/leetcode/tree/master/0249-group-shifted-strings) |
 | [0283-move-zeroes](https://github.com/9keyyyy/leetcode/tree/master/0283-move-zeroes) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/9keyyyy/leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/9keyyyy/leetcode/tree/master/0200-number-of-islands) |
 ## Sorting
 |  |
 | ------- |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/9keyyyy/leetcode/tree/master/0036-valid-sudoku) |
+| [0200-number-of-islands](https://github.com/9keyyyy/leetcode/tree/master/0200-number-of-islands) |
 ## Enumeration
 |  |
 | ------- |
@@ -151,9 +154,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/9keyyyy/leetcode/tree/master/0200-number-of-islands) |
 | [0386-lexicographical-numbers](https://github.com/9keyyyy/leetcode/tree/master/0386-lexicographical-numbers) |
 ## Trie
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/9keyyyy/leetcode/tree/master/0386-lexicographical-numbers) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/9keyyyy/leetcode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
