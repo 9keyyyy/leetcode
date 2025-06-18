@@ -30,10 +30,10 @@ class Solution:
         for i in range(n):
             for j in range(m):
                 if word[0] == board[i][j]:
-                    visited[i][j]=1
+                    visited[i][j] = 1
                     if dfs(i, j, 0):
                         return True
-                    visited[i][j]=0
+                    visited[i][j] = 0
 
         return False
 
