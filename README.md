@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/9keyyyy/leetcode/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/9keyyyy/leetcode/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/9keyyyy/leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/9keyyyy/leetcode/tree/master/0079-word-search) |
 | [0118-pascals-triangle](https://github.com/9keyyyy/leetcode/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/9keyyyy/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/9keyyyy/leetcode/tree/master/0136-single-number) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/9keyyyy/leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/9keyyyy/leetcode/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/9keyyyy/leetcode/tree/master/0049-group-anagrams) |
+| [0079-word-search](https://github.com/9keyyyy/leetcode/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/9keyyyy/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0159-longest-substring-with-at-most-two-distinct-characters](https://github.com/9keyyyy/leetcode/tree/master/0159-longest-substring-with-at-most-two-distinct-characters) |
 | [0249-group-shifted-strings](https://github.com/9keyyyy/leetcode/tree/master/0249-group-shifted-strings) |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/9keyyyy/leetcode/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/9keyyyy/leetcode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/9keyyyy/leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/9keyyyy/leetcode/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/9keyyyy/leetcode/tree/master/0131-palindrome-partitioning) |
 ## Binary Search
 |  |
@@ -151,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/9keyyyy/leetcode/tree/master/0036-valid-sudoku) |
+| [0079-word-search](https://github.com/9keyyyy/leetcode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/9keyyyy/leetcode/tree/master/0200-number-of-islands) |
 ## Enumeration
 |  |
@@ -159,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/9keyyyy/leetcode/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/9keyyyy/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0200-number-of-islands](https://github.com/9keyyyy/leetcode/tree/master/0200-number-of-islands) |
 | [0386-lexicographical-numbers](https://github.com/9keyyyy/leetcode/tree/master/0386-lexicographical-numbers) |
