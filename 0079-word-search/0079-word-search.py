@@ -8,6 +8,7 @@ class Solution:
 
         visited = [[0]*m for _ in range(n)]
         def dfs(y, x, idx):
+            visited[y][x] = 1
             if idx == len(word)-1:
                 return True
             
@@ -19,21 +20,20 @@ class Solution:
                     continue
 
                 if word[idx+1] == board[ny][nx] and not visited[ny][nx]:
-                    visited[ny][nx] = 1
                     if dfs(ny, nx, idx+1):
                         return True
-                    visited[ny][nx] = 0
-            
+                
+            visited[y][x] = 0
             return False
 
 
         for i in range(n):
             for j in range(m):
                 if word[0] == board[i][j]:
-                    visited[i][j] = 1
+                    # visited[i][j] = 1
                     if dfs(i, j, 0):
                         return True
-                    visited[i][j] = 0
+                    # visited[i][j] = 0
 
         return False
 
