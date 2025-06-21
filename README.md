@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/9keyyyy/leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/9keyyyy/leetcode/tree/master/0079-word-search) |
 | [0118-pascals-triangle](https://github.com/9keyyyy/leetcode/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/9keyyyy/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/9keyyyy/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/9keyyyy/leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/9keyyyy/leetcode/tree/master/0137-single-number-ii) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/9keyyyy/leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/9keyyyy/leetcode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/9keyyyy/leetcode/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/9keyyyy/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/9keyyyy/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0279-perfect-squares](https://github.com/9keyyyy/leetcode/tree/master/0279-perfect-squares) |
 ## String
