@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0249-group-shifted-strings](https://github.com/9keyyyy/leetcode/tree/master/0249-group-shifted-strings) |
 | [0283-move-zeroes](https://github.com/9keyyyy/leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/9keyyyy/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0747-min-cost-climbing-stairs](https://github.com/9keyyyy/leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [1293-three-consecutive-odds](https://github.com/9keyyyy/leetcode/tree/master/1293-three-consecutive-odds) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/9keyyyy/leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3194-find-words-containing-character](https://github.com/9keyyyy/leetcode/tree/master/3194-find-words-containing-character) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/9keyyyy/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/9keyyyy/leetcode/tree/master/0198-house-robber) |
 | [0279-perfect-squares](https://github.com/9keyyyy/leetcode/tree/master/0279-perfect-squares) |
+| [0747-min-cost-climbing-stairs](https://github.com/9keyyyy/leetcode/tree/master/0747-min-cost-climbing-stairs) |
 ## String
 |  |
 | ------- |
