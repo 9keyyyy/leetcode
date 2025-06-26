@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/9keyyyy/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/9keyyyy/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/9keyyyy/leetcode/tree/master/0198-house-robber) |
+| [0276-paint-fence](https://github.com/9keyyyy/leetcode/tree/master/0276-paint-fence) |
 | [0279-perfect-squares](https://github.com/9keyyyy/leetcode/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/9keyyyy/leetcode/tree/master/0322-coin-change) |
 | [0747-min-cost-climbing-stairs](https://github.com/9keyyyy/leetcode/tree/master/0747-min-cost-climbing-stairs) |
