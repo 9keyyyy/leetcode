@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/9keyyyy/leetcode/tree/master/0322-coin-change) |
 | [0740-delete-and-earn](https://github.com/9keyyyy/leetcode/tree/master/0740-delete-and-earn) |
 | [0747-min-cost-climbing-stairs](https://github.com/9keyyyy/leetcode/tree/master/0747-min-cost-climbing-stairs) |
+| [1250-longest-common-subsequence](https://github.com/9keyyyy/leetcode/tree/master/1250-longest-common-subsequence) |
 ## String
 |  |
 | ------- |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0159-longest-substring-with-at-most-two-distinct-characters](https://github.com/9keyyyy/leetcode/tree/master/0159-longest-substring-with-at-most-two-distinct-characters) |
 | [0249-group-shifted-strings](https://github.com/9keyyyy/leetcode/tree/master/0249-group-shifted-strings) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/9keyyyy/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [1250-longest-common-subsequence](https://github.com/9keyyyy/leetcode/tree/master/1250-longest-common-subsequence) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/9keyyyy/leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3194-find-words-containing-character](https://github.com/9keyyyy/leetcode/tree/master/3194-find-words-containing-character) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/9keyyyy/leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
