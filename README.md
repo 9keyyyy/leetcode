@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/9keyyyy/leetcode/tree/master/0221-maximal-square) |
 | [0238-product-of-array-except-self](https://github.com/9keyyyy/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0249-group-shifted-strings](https://github.com/9keyyyy/leetcode/tree/master/0249-group-shifted-strings) |
+| [0253-meeting-rooms-ii](https://github.com/9keyyyy/leetcode/tree/master/0253-meeting-rooms-ii) |
 | [0283-move-zeroes](https://github.com/9keyyyy/leetcode/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/9keyyyy/leetcode/tree/master/0322-coin-change) |
 | [0349-intersection-of-two-arrays](https://github.com/9keyyyy/leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/9keyyyy/leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/9keyyyy/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0202-happy-number](https://github.com/9keyyyy/leetcode/tree/master/0202-happy-number) |
+| [0253-meeting-rooms-ii](https://github.com/9keyyyy/leetcode/tree/master/0253-meeting-rooms-ii) |
 | [0283-move-zeroes](https://github.com/9keyyyy/leetcode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/9keyyyy/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/9keyyyy/leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/9keyyyy/leetcode/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/9keyyyy/leetcode/tree/master/0055-jump-game) |
+| [0253-meeting-rooms-ii](https://github.com/9keyyyy/leetcode/tree/master/0253-meeting-rooms-ii) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/9keyyyy/leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 ## Hash Table
 |  |
@@ -163,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/9keyyyy/leetcode/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/9keyyyy/leetcode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/9keyyyy/leetcode/tree/master/0217-contains-duplicate) |
+| [0253-meeting-rooms-ii](https://github.com/9keyyyy/leetcode/tree/master/0253-meeting-rooms-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/9keyyyy/leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Counting
 |  |
@@ -219,5 +223,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/9keyyyy/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/9keyyyy/leetcode/tree/master/0238-product-of-array-except-self) |
+| [0253-meeting-rooms-ii](https://github.com/9keyyyy/leetcode/tree/master/0253-meeting-rooms-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/9keyyyy/leetcode/tree/master/0560-subarray-sum-equals-k) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0253-meeting-rooms-ii](https://github.com/9keyyyy/leetcode/tree/master/0253-meeting-rooms-ii) |
 <!---LeetCode Topics End-->
