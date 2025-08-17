@@ -1,22 +1,16 @@
-class Solution(object):
-    def combine(self, n, k):
-        """
-        :type n: int
-        :type k: int
-        :rtype: List[List[int]]
-        """
-        ans = []
-        arr = []
-        def dfs(c, arr, ans):
-            if len(arr) == k:
-                ans.append(arr[:])
+class Solution:
+    def combine(self, n: int, k: int) -> List[List[int]]:
+        res = []
+        def backtrack(cur, s):
+            if len(cur) == k:
+                res.append(cur.copy())
+                return
+
+            for i in range(s, n+1):
+                cur.append(i)
+                backtrack(cur, i+1)
+                cur.pop()
+
+        backtrack([], 1)
+        return res
             
-            for i in range(c, n+1):
-                arr.append(i)
-                dfs(i+1, arr, ans)
-                arr.pop()
-
-        dfs(1, arr, ans)
-
-        return ans
-        
