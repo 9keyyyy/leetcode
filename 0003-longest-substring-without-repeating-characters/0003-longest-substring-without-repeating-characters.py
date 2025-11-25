@@ -5,20 +5,17 @@ class Solution(object):
         :rtype: int
         """
         start, end = 0, 0
-        used = {}
+        if len(s) == 0:
+            return 0
 
-        ans = 0
-        while end < len(s):
-            if not used.get(s[end]):
-                used[s[end]] = 1
-            else:
-                used[s[end]] += 1
-
-            while used[s[end]] > 1:
-                used[s[start]] -= 1
-                start += 1
-            
-            ans = max(ans, end - start + 1)
+        ans = 1
+        while start <= end and end < len(s) - 1:
             end += 1
+            if s[end] in s[start:end]:
+                while s[end] in s[start:end]:
+                    start += 1
+            else:
+                ans = max(ans, end - start + 1)
 
         return ans
+        
