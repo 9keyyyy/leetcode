@@ -6,27 +6,21 @@ class Solution(object):
         :rtype: int
         """
         s, e = 0, 0
-        n = len(nums)
-
-        cur = nums[0]
-        min_len = 1e9
-
-        while True:
-            if target > cur:
-                e += 1
-
-                if e >= n:
-                    break
-
-                cur += nums[e]
-            else:
-                if min_len > e - s + 1:
-                    min_len = e - s + 1
-
-                if e == s:
-                    break
-
-                cur -= nums[s]
-                s += 1
+        cur = 0
+        ans = 100001
         
-        return min_len if min_len != 1e9 else 0
+        while e < len(nums):
+            cur += nums[e]
+            if cur >= target:
+                while cur >= target:
+                    cur -= nums[s]
+                    s += 1
+                ans = min(ans, e-s+2)
+            e += 1
+
+        if ans == 100001:
+            return 0
+        else:
+            return ans
+            
+                
