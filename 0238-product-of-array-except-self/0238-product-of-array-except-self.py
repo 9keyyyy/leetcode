@@ -2,24 +2,31 @@ class Solution(object):
     def productExceptSelf(self, nums):
         """
         :type nums: List[int]
-        :rtype: List[int] 
+        :rtype: List[int]
         """
-        # 입력 배열의 길이
-        length = len(nums)
-        # 왼쪽, 오른쪽, 답
-        L, R, answer = [0] * length, [0] * length, [0] * length
-       
-        # L[i]는 왼쪽에 있는 모든 원소들의 곱 포함
-        L[0] = 1
-        for i in range(1, length):
-            L[i] = nums[i - 1] * L[i - 1]
-       
-        # R[i]는 오른쪽에 있는 모든 원소들의 곱 포함
-        R[length - 1] = 1
-        for i in reversed(range(length - 1)):
-            R[i] = nums[i + 1] * R[i + 1]
-       
-        for i in range(length):
-            answer[i] = L[i] * R[i]
-       
-        return answer
+        n = len(nums)
+        
+        r_list = [0]*n
+        for i in range(n):
+            if i == 0:
+                r_list[i] = nums[i]
+            else:
+                r_list[i] = nums[i]*r_list[i-1]
+
+        l_list = [0]*n
+        for i in range(n-1, -1, -1):
+            if i == n-1:
+                l_list[i] = nums[i]
+            else:
+                l_list[i] = nums[i]*l_list[i+1]
+
+        ans = []
+        for i in range(n):
+            if i == 0:
+                ans.append(l_list[i+1])
+            elif i == n-1:
+                ans.append(r_list[i-1])
+            else:
+                ans.append(r_list[i-1]*l_list[i+1])
+        
+        return ans
