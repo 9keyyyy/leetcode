@@ -11,13 +11,10 @@ class Solution(object):
             while True:
                 start -= 1
                 end += 1
-                if start < 0 or end >= len(s):
+                if start < 0 or end >= len(s) or s[start] != s[end]:
                     break
-                if s[start] == s[end]:
-                    if len(ans) < end-start+1:
-                        ans = s[start:end+1]
-                else:
-                    break
+                if len(ans) < end-start+1:
+                    ans = s[start:end+1]
 
         for i in range(len(s)):
             cur = s[i]
@@ -29,13 +26,10 @@ class Solution(object):
             while True:
                 start -= 1
                 end += 1
-                if start < 0 or end >= len(s):
+                if start < 0 or end >= len(s) or s[start] != s[end]:
                     break
-                if s[start] == s[end]:
-                    if len(ans) < end-start+1:
-                        ans = s[start:end+1]
-                        print(ans)
-                else:
-                    break
+                if len(ans) < end-start+1:
+                    ans = s[start:end+1]
+
         return ans
 
