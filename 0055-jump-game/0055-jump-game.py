@@ -1,12 +1,19 @@
 class Solution(object):
     def canJump(self, nums):
-        GOOD, BAD, UNKNOWN = 1, 0, -1
-        memo = [UNKNOWN] * len(nums)
-        memo[-1] = GOOD
-        for i in range(len(nums) - 2, -1, -1):
-            furthest_jump = min(i + nums[i], len(nums) - 1)
-            for j in range(i + 1, furthest_jump + 1):
-                if memo[j] == GOOD:
-                    memo[i] = GOOD
-                    break
-        return memo[0] == GOOD
+        """
+        :type nums: List[int]
+        :rtype: bool
+        """
+        n = len(nums)
+        dp = [0] * n
+        dp[0] = nums[0]
+        if not dp[0] and n > 1:
+            return False
+
+        for i in range(1, n-1):
+            dp[i] = max(dp[i-1]-1, nums[i])
+            if dp[i] == 0:
+                return False
+
+        return True
+        
