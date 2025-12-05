@@ -18,12 +18,10 @@ class Solution(object):
             if cur_max <= nums[i]:
                 if nums[criteria] - (i-criteria) < nums[i]:
                     criteria = i
-                    print("criteria", i, criteria, nums[criteria], cur_max)
             cur_max -= 1
             if cur_max == 0:
                 ans += 1
                 cur_max = nums[criteria] - (i-criteria)
-                print("cur_max", i, cur_max)
 
         return ans
 
