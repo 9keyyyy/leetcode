@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/9keyyyy/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/9keyyyy/leetcode/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/9keyyyy/leetcode/tree/master/0036-valid-sudoku) |
+| [0045-jump-game-ii](https://github.com/9keyyyy/leetcode/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/9keyyyy/leetcode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/9keyyyy/leetcode/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/9keyyyy/leetcode/tree/master/0055-jump-game) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/9keyyyy/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/9keyyyy/leetcode/tree/master/0022-generate-parentheses) |
+| [0045-jump-game-ii](https://github.com/9keyyyy/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/9keyyyy/leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/9keyyyy/leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/9keyyyy/leetcode/tree/master/0070-climbing-stairs) |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/9keyyyy/leetcode/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/9keyyyy/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/9keyyyy/leetcode/tree/master/0055-jump-game) |
 | [0253-meeting-rooms-ii](https://github.com/9keyyyy/leetcode/tree/master/0253-meeting-rooms-ii) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/9keyyyy/leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
