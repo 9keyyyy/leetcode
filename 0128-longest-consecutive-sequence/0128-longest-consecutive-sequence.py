@@ -4,20 +4,23 @@ class Solution(object):
         :type nums: List[int]
         :rtype: int
         """
-        longest_streak = 0
-        num_set = set(nums)
+        
+        hashmap = {} 
 
-        for num in num_set:
-            if num - 1 not in num_set:
-                current_num = num
-                current_streak = 1
+        for num in nums:
+            if num not in hashmap:
+                left = hashmap.get(num-1, 0)
+                right = hashmap.get(num+1, 0)
+                
+                length = left + right + 1
+                hashmap[num] = length
+                
+                hashmap[num - left] = length
+                hashmap[num + right] = length
 
-                while current_num + 1 in num_set:
-                    current_num += 1
-                    current_streak += 1
-
-                longest_streak = max(longest_streak, current_streak)
-
-        return longest_streak
-
-
+        ans = 0
+        for k in hashmap.values():
+            ans = max(ans, k)
+        
+        return ans
+        
