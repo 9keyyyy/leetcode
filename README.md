@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/9keyyyy/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0130-surrounded-regions](https://github.com/9keyyyy/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/9keyyyy/leetcode/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/9keyyyy/leetcode/tree/master/0207-course-schedule) |
 | [0386-lexicographical-numbers](https://github.com/9keyyyy/leetcode/tree/master/0386-lexicographical-numbers) |
 ## Trie
 |  |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/9keyyyy/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/9keyyyy/leetcode/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/9keyyyy/leetcode/tree/master/0207-course-schedule) |
 | [0279-perfect-squares](https://github.com/9keyyyy/leetcode/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/9keyyyy/leetcode/tree/master/0322-coin-change) |
 ## Tree
@@ -253,4 +255,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/9keyyyy/leetcode/tree/master/0169-majority-element) |
+## Graph
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/9keyyyy/leetcode/tree/master/0207-course-schedule) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/9keyyyy/leetcode/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
