@@ -4,19 +4,15 @@ class Solution(object):
         :type n: int
         :rtype: List[str]
         """
-        answer = []
-        def backtracking(cur_string, left_count, right_count):
-            if len(cur_string) == 2 * n:
-                answer.append("".join(cur_string))
-                return
-            if left_count < n:
-                cur_string.append("(")
-                backtracking(cur_string, left_count + 1, right_count)
-                cur_string.pop()
-            if right_count < left_count:
-                cur_string.append(")")
-                backtracking(cur_string, left_count, right_count + 1)
-                cur_string.pop()
+        ans = []
+        def add_bracket(s, open, close):
+            if len(s) == n * 2:
+                ans.append(s)
 
-        backtracking([], 0, 0)
-        return answer
+            if open < n:
+                add_bracket(s + "(", open + 1, close)
+            if open > close:
+                add_bracket(s + ")", open, close + 1)
+
+        add_bracket("", 0, 0)
+        return ans
