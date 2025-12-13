@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/9keyyyy/leetcode/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/9keyyyy/leetcode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/9keyyyy/leetcode/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/9keyyyy/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/9keyyyy/leetcode/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/9keyyyy/leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/9keyyyy/leetcode/tree/master/0079-word-search) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/9keyyyy/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/9keyyyy/leetcode/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/9keyyyy/leetcode/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/9keyyyy/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/9keyyyy/leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/9keyyyy/leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/9keyyyy/leetcode/tree/master/0070-climbing-stairs) |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/9keyyyy/leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/9keyyyy/leetcode/tree/master/0169-majority-element) |
 ## Graph
 |  |
