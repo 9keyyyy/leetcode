@@ -6,17 +6,19 @@ class Solution(object):
         :rtype: int
         """
         count = 0
-        sum_val = 0
-        prefix_sum_count = {0: 1}  # 초기값: 합이 0인 경우 1개
+        prefix_sum = 0
+        seen = {0: 1} 
         
         for num in nums:
-            sum_val += num  # 현재까지의 누적합
+            prefix_sum += num
             
-            # (현재 누적합 - k)가 이전에 나온 적이 있는지 확인
-            if (sum_val - k) in prefix_sum_count:
-                count += prefix_sum_count[sum_val - k]
+            # 이전에 (현재 누적합 - k)가 있었으면, 그만큼 답에 추가
+            if prefix_sum - k in seen:
+                count += seen[prefix_sum - k]
             
-            # 현재 누적합을 딕셔너리에 저장/업데이트
-            prefix_sum_count[sum_val] = prefix_sum_count.get(sum_val, 0) + 1
+            # 현재 누적합 기록
+            seen[prefix_sum] = seen.get(prefix_sum, 0) + 1
         
         return count
+
+                
