@@ -11,7 +11,7 @@ class Solution(object):
 
         s, ans = 0, 0
 
-        if min(nums) >= k:
+        if k <= 1:
             return 0
 
         for i in range(1, n+1):
