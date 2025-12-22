@@ -16,12 +16,8 @@ class Solution(object):
 
         for i in range(1, n+1):
             prefix_s[i] = prefix_s[i-1] * nums[i-1]
-            if prefix_s[i] // prefix_s[s] < k:
-                pass
-            else:
-                # print(i, s, prefix_s[i]//prefix_s[s])
-                while prefix_s[i] // prefix_s[s] >= k:
-                    s += 1
+            while prefix_s[i] // prefix_s[s] >= k:
+                s += 1
             ans += i-s
                 
         return ans
