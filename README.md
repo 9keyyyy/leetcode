@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/9keyyyy/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/9keyyyy/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/9keyyyy/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0713-subarray-product-less-than-k](https://github.com/9keyyyy/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0740-delete-and-earn](https://github.com/9keyyyy/leetcode/tree/master/0740-delete-and-earn) |
 | [0747-min-cost-climbing-stairs](https://github.com/9keyyyy/leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [1293-three-consecutive-odds](https://github.com/9keyyyy/leetcode/tree/master/1293-three-consecutive-odds) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0159-longest-substring-with-at-most-two-distinct-characters](https://github.com/9keyyyy/leetcode/tree/master/0159-longest-substring-with-at-most-two-distinct-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/9keyyyy/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/9keyyyy/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0713-subarray-product-less-than-k](https://github.com/9keyyyy/leetcode/tree/master/0713-subarray-product-less-than-k) |
 ## Backtracking
 |  |
 | ------- |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/9keyyyy/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/9keyyyy/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/9keyyyy/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0713-subarray-product-less-than-k](https://github.com/9keyyyy/leetcode/tree/master/0713-subarray-product-less-than-k) |
 ## Math
 |  |
 | ------- |
@@ -254,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0253-meeting-rooms-ii](https://github.com/9keyyyy/leetcode/tree/master/0253-meeting-rooms-ii) |
 | [0325-maximum-size-subarray-sum-equals-k](https://github.com/9keyyyy/leetcode/tree/master/0325-maximum-size-subarray-sum-equals-k) |
 | [0560-subarray-sum-equals-k](https://github.com/9keyyyy/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0713-subarray-product-less-than-k](https://github.com/9keyyyy/leetcode/tree/master/0713-subarray-product-less-than-k) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
