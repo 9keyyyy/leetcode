@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/9keyyyy/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/9keyyyy/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/9keyyyy/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0525-contiguous-array](https://github.com/9keyyyy/leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/9keyyyy/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/9keyyyy/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0740-delete-and-earn](https://github.com/9keyyyy/leetcode/tree/master/0740-delete-and-earn) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/9keyyyy/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/9keyyyy/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/9keyyyy/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0525-contiguous-array](https://github.com/9keyyyy/leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/9keyyyy/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0740-delete-and-earn](https://github.com/9keyyyy/leetcode/tree/master/0740-delete-and-earn) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/9keyyyy/leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/9keyyyy/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0253-meeting-rooms-ii](https://github.com/9keyyyy/leetcode/tree/master/0253-meeting-rooms-ii) |
 | [0325-maximum-size-subarray-sum-equals-k](https://github.com/9keyyyy/leetcode/tree/master/0325-maximum-size-subarray-sum-equals-k) |
+| [0525-contiguous-array](https://github.com/9keyyyy/leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/9keyyyy/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/9keyyyy/leetcode/tree/master/0713-subarray-product-less-than-k) |
 ## Heap (Priority Queue)
