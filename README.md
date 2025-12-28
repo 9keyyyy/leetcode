@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/9keyyyy/leetcode/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/9keyyyy/leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/9keyyyy/leetcode/tree/master/0137-single-number-ii) |
+| [0162-find-peak-element](https://github.com/9keyyyy/leetcode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/9keyyyy/leetcode/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/9keyyyy/leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/9keyyyy/leetcode/tree/master/0200-number-of-islands) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/9keyyyy/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/9keyyyy/leetcode/tree/master/0035-search-insert-position) |
+| [0162-find-peak-element](https://github.com/9keyyyy/leetcode/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/9keyyyy/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/9keyyyy/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/9keyyyy/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
