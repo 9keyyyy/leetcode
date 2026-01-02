@@ -6,10 +6,6 @@ class Solution(object):
         :rtype: List[int]
         """
         n = len(nums)
-
-        if n == 1 and target == nums[0]:
-            return [0, 0]
-
         left, right = 0, n-1
         idx = -1
         while left <= right:
