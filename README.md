@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/9keyyyy/leetcode/tree/master/0525-contiguous-array) |
 | [0542-01-matrix](https://github.com/9keyyyy/leetcode/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/9keyyyy/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0695-max-area-of-island](https://github.com/9keyyyy/leetcode/tree/master/0695-max-area-of-island) |
 | [0713-subarray-product-less-than-k](https://github.com/9keyyyy/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0740-delete-and-earn](https://github.com/9keyyyy/leetcode/tree/master/0740-delete-and-earn) |
 | [0747-min-cost-climbing-stairs](https://github.com/9keyyyy/leetcode/tree/master/0747-min-cost-climbing-stairs) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/9keyyyy/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/9keyyyy/leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/9keyyyy/leetcode/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/9keyyyy/leetcode/tree/master/0695-max-area-of-island) |
 ## Sorting
 |  |
 | ------- |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/9keyyyy/leetcode/tree/master/0221-maximal-square) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/9keyyyy/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0542-01-matrix](https://github.com/9keyyyy/leetcode/tree/master/0542-01-matrix) |
+| [0695-max-area-of-island](https://github.com/9keyyyy/leetcode/tree/master/0695-max-area-of-island) |
 ## Enumeration
 |  |
 | ------- |
@@ -240,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/9keyyyy/leetcode/tree/master/0207-course-schedule) |
 | [0386-lexicographical-numbers](https://github.com/9keyyyy/leetcode/tree/master/0386-lexicographical-numbers) |
 | [0547-number-of-provinces](https://github.com/9keyyyy/leetcode/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/9keyyyy/leetcode/tree/master/0695-max-area-of-island) |
 ## Trie
 |  |
 | ------- |
@@ -254,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/9keyyyy/leetcode/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/9keyyyy/leetcode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/9keyyyy/leetcode/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/9keyyyy/leetcode/tree/master/0695-max-area-of-island) |
 ## Tree
 |  |
 | ------- |
