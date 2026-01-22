@@ -4,20 +4,15 @@ class Solution(object):
         :type strs: List[str]
         :rtype: List[List[str]]
         """
-
-        hmap = {}
-        ans = []
-        
+        hashmap = defaultdict(list)
         for s in strs:
-            cur = "".join(sorted(s))
-            
-            if cur in hmap:
-                hmap[cur].append(s)
-            else:
-                hmap[cur] = [s]
+            arr = list(s)
+            arr.sort()
 
-        for k, v in hmap.items():
+            hashmap[tuple(arr)].append(s)
+
+        ans = []
+        for v in hashmap.values():
             ans.append(v)
-        
-        return ans
 
+        return ans
