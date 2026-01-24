@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/9keyyyy/leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/9keyyyy/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/9keyyyy/leetcode/tree/master/0055-jump-game) |
+| [0073-set-matrix-zeroes](https://github.com/9keyyyy/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/9keyyyy/leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/9keyyyy/leetcode/tree/master/0079-word-search) |
 | [0118-pascals-triangle](https://github.com/9keyyyy/leetcode/tree/master/0118-pascals-triangle) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/9keyyyy/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/9keyyyy/leetcode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/9keyyyy/leetcode/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/9keyyyy/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/9keyyyy/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0159-longest-substring-with-at-most-two-distinct-characters](https://github.com/9keyyyy/leetcode/tree/master/0159-longest-substring-with-at-most-two-distinct-characters) |
 | [0169-majority-element](https://github.com/9keyyyy/leetcode/tree/master/0169-majority-element) |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/9keyyyy/leetcode/tree/master/0036-valid-sudoku) |
+| [0073-set-matrix-zeroes](https://github.com/9keyyyy/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/9keyyyy/leetcode/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/9keyyyy/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/9keyyyy/leetcode/tree/master/0200-number-of-islands) |
