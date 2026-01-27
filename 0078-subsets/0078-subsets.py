@@ -4,17 +4,18 @@ class Solution(object):
         :type nums: List[int]
         :rtype: List[List[int]]
         """
+        n = len(nums)
         ans = []
-        def backtracking(n, arr, idx):
-            if len(arr) == n:
-                ans.append(arr[:])
-            
-            for i in range(idx, len(nums)):
-                arr.append(nums[i])
-                backtracking(n, arr, i+1)
-                arr.pop()
+        def dfs(idx, cur, m):
+            if len(cur) == m:
+                ans.append(cur)
+                return
 
-        for i in range(len(nums)+1):
-            backtracking(i, [], 0)
+            for i in range(idx, n):
+                dfs(i+1, cur+[nums[i]], m)
+        
+        for i in range(n+1):
+            dfs(0, [], i)
 
         return ans
+                
