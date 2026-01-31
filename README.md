@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/9keyyyy/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0740-delete-and-earn](https://github.com/9keyyyy/leetcode/tree/master/0740-delete-and-earn) |
 | [0747-min-cost-climbing-stairs](https://github.com/9keyyyy/leetcode/tree/master/0747-min-cost-climbing-stairs) |
+| [0994-rotting-oranges](https://github.com/9keyyyy/leetcode/tree/master/0994-rotting-oranges) |
 | [1293-three-consecutive-odds](https://github.com/9keyyyy/leetcode/tree/master/1293-three-consecutive-odds) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/9keyyyy/leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3194-find-words-containing-character](https://github.com/9keyyyy/leetcode/tree/master/3194-find-words-containing-character) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/9keyyyy/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0542-01-matrix](https://github.com/9keyyyy/leetcode/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/9keyyyy/leetcode/tree/master/0695-max-area-of-island) |
+| [0994-rotting-oranges](https://github.com/9keyyyy/leetcode/tree/master/0994-rotting-oranges) |
 ## Enumeration
 |  |
 | ------- |
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/9keyyyy/leetcode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/9keyyyy/leetcode/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/9keyyyy/leetcode/tree/master/0695-max-area-of-island) |
+| [0994-rotting-oranges](https://github.com/9keyyyy/leetcode/tree/master/0994-rotting-oranges) |
 ## Tree
 |  |
 | ------- |
