@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/9keyyyy/leetcode/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/9keyyyy/leetcode/tree/master/0155-min-stack) |
 ## Two Pointers
 |  |
 | ------- |
@@ -333,4 +334,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/9keyyyy/leetcode/tree/master/0347-top-k-frequent-elements) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/9keyyyy/leetcode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
