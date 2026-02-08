@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/9keyyyy/leetcode/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/9keyyyy/leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/9keyyyy/leetcode/tree/master/0137-single-number-ii) |
+| [0139-word-break](https://github.com/9keyyyy/leetcode/tree/master/0139-word-break) |
 | [0162-find-peak-element](https://github.com/9keyyyy/leetcode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/9keyyyy/leetcode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/9keyyyy/leetcode/tree/master/0179-largest-number) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/9keyyyy/leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/9keyyyy/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/9keyyyy/leetcode/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/9keyyyy/leetcode/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/9keyyyy/leetcode/tree/master/0198-house-robber) |
 | [0221-maximal-square](https://github.com/9keyyyy/leetcode/tree/master/0221-maximal-square) |
 | [0276-paint-fence](https://github.com/9keyyyy/leetcode/tree/master/0276-paint-fence) |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/9keyyyy/leetcode/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/9keyyyy/leetcode/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/9keyyyy/leetcode/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/9keyyyy/leetcode/tree/master/0139-word-break) |
 | [0159-longest-substring-with-at-most-two-distinct-characters](https://github.com/9keyyyy/leetcode/tree/master/0159-longest-substring-with-at-most-two-distinct-characters) |
 | [0179-largest-number](https://github.com/9keyyyy/leetcode/tree/master/0179-largest-number) |
 | [0249-group-shifted-strings](https://github.com/9keyyyy/leetcode/tree/master/0249-group-shifted-strings) |
@@ -137,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/9keyyyy/leetcode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/9keyyyy/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/9keyyyy/leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/9keyyyy/leetcode/tree/master/0139-word-break) |
 | [0159-longest-substring-with-at-most-two-distinct-characters](https://github.com/9keyyyy/leetcode/tree/master/0159-longest-substring-with-at-most-two-distinct-characters) |
 | [0169-majority-element](https://github.com/9keyyyy/leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/9keyyyy/leetcode/tree/master/0202-happy-number) |
@@ -192,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/9keyyyy/leetcode/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/9keyyyy/leetcode/tree/master/0139-word-break) |
 ## Combinatorics
 |  |
 | ------- |
@@ -262,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0139-word-break](https://github.com/9keyyyy/leetcode/tree/master/0139-word-break) |
 | [0386-lexicographical-numbers](https://github.com/9keyyyy/leetcode/tree/master/0386-lexicographical-numbers) |
 ## Breadth-First Search
 |  |
