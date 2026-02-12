@@ -4,22 +4,19 @@ class Solution(object):
         :type height: List[int]
         :rtype: int
         """
-        s, e = 0, len(height)-1
+        
+        n = len(height)
+        s, e = 0, n-1
 
-        ans = (e - s) * min(height[s], height[e])
-        while True:
-            if height[s] < height[e]:
+        ans = 0
+        while s < e:
+            w = e - s
+            h = min(height[s], height[e])
+            ans = max(ans,  h*w)
+
+            if height[s] == h:
                 s += 1
             else:
                 e -= 1
-            
-            if s == e:
-                break
-            
-            cur = (e - s) * min(height[s], height[e])
-
-            if ans < cur:
-                ans = cur
-
+                
         return ans
-
