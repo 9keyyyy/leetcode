@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/9keyyyy/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0695-max-area-of-island](https://github.com/9keyyyy/leetcode/tree/master/0695-max-area-of-island) |
 | [0713-subarray-product-less-than-k](https://github.com/9keyyyy/leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [0739-daily-temperatures](https://github.com/9keyyyy/leetcode/tree/master/0739-daily-temperatures) |
 | [0740-delete-and-earn](https://github.com/9keyyyy/leetcode/tree/master/0740-delete-and-earn) |
 | [0747-min-cost-climbing-stairs](https://github.com/9keyyyy/leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0994-rotting-oranges](https://github.com/9keyyyy/leetcode/tree/master/0994-rotting-oranges) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/9keyyyy/leetcode/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/9keyyyy/leetcode/tree/master/0155-min-stack) |
+| [0739-daily-temperatures](https://github.com/9keyyyy/leetcode/tree/master/0739-daily-temperatures) |
 ## Two Pointers
 |  |
 | ------- |
@@ -353,4 +355,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/9keyyyy/leetcode/tree/master/0210-course-schedule-ii) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/9keyyyy/leetcode/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
