@@ -44,9 +44,6 @@ class Solution(object):
                     if nx < 0 or nx >= m or ny < 0 or ny >= n:
                         continue
 
-                    # if heights[ny][nx] > heights[y][x] and success[ny][nx] == 1:
-                    #     return True
-
                     if heights[ny][nx] > heights[y][x] or visited[ny][nx]:
                         continue
                     
@@ -63,9 +60,7 @@ class Solution(object):
                 if success[i][j] != 1:
                     visited = [[0]*m for _ in range(n)]
                     res = bfs(i, j)
-                    if not res:
-                        success[i][j] = -1
-                    else: 
+                    if res:
                         success[i][j] = 1
 
         for i in range(n):
