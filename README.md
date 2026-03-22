@@ -285,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/9keyyyy/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0547-number-of-provinces](https://github.com/9keyyyy/leetcode/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/9keyyyy/leetcode/tree/master/0695-max-area-of-island) |
+| [0743-network-delay-time](https://github.com/9keyyyy/leetcode/tree/master/0743-network-delay-time) |
 ## Trie
 |  |
 | ------- |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/9keyyyy/leetcode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/9keyyyy/leetcode/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/9keyyyy/leetcode/tree/master/0695-max-area-of-island) |
+| [0743-network-delay-time](https://github.com/9keyyyy/leetcode/tree/master/0743-network-delay-time) |
 | [0994-rotting-oranges](https://github.com/9keyyyy/leetcode/tree/master/0994-rotting-oranges) |
 ## Tree
 |  |
@@ -340,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0253-meeting-rooms-ii](https://github.com/9keyyyy/leetcode/tree/master/0253-meeting-rooms-ii) |
 | [0347-top-k-frequent-elements](https://github.com/9keyyyy/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/9keyyyy/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0743-network-delay-time](https://github.com/9keyyyy/leetcode/tree/master/0743-network-delay-time) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -372,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/9keyyyy/leetcode/tree/master/0210-course-schedule-ii) |
+| [0743-network-delay-time](https://github.com/9keyyyy/leetcode/tree/master/0743-network-delay-time) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -388,4 +392,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/9keyyyy/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/9keyyyy/leetcode/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
